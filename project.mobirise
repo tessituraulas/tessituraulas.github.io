@@ -79,7 +79,7 @@
               "min-height": "77px"
             },
             ".navbar-dropdown.bg-color.transparent.opened": {
-              "background": "@menuBgColor"
+              "background": "assets/Crianças-com-mão-levantada.jpg"
             },
             "a": {
               "font-style": "normal"
